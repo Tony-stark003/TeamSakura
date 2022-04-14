@@ -40,3 +40,5 @@ python-arq
 ffmpeg-python
 requests
 ytthumb
+tgcrypto
+pytz==2021.3
